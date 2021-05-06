@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/NLW-02/static/css/main.5f0de1a8.chunk.css",
+    "main.js": "/NLW-02/static/js/main.b175dd43.chunk.js",
+    "main.js.map": "/NLW-02/static/js/main.b175dd43.chunk.js.map",
+    "runtime-main.js": "/NLW-02/static/js/runtime-main.c7e62821.js",
+    "runtime-main.js.map": "/NLW-02/static/js/runtime-main.c7e62821.js.map",
+    "static/js/2.2a2d43c5.chunk.js": "/NLW-02/static/js/2.2a2d43c5.chunk.js",
+    "static/js/2.2a2d43c5.chunk.js.map": "/NLW-02/static/js/2.2a2d43c5.chunk.js.map",
+    "index.html": "/NLW-02/index.html",
+    "precache-manifest.ef70926c88c9c6832d5ba73db8bc4a43.js": "/NLW-02/precache-manifest.ef70926c88c9c6832d5ba73db8bc4a43.js",
+    "service-worker.js": "/NLW-02/service-worker.js",
+    "static/css/main.5f0de1a8.chunk.css.map": "/NLW-02/static/css/main.5f0de1a8.chunk.css.map",
+    "static/js/2.2a2d43c5.chunk.js.LICENSE.txt": "/NLW-02/static/js/2.2a2d43c5.chunk.js.LICENSE.txt",
+    "static/media/back.svg": "/NLW-02/static/media/back.1fbb1f8b.svg",
+    "static/media/give-classes.svg": "/NLW-02/static/media/give-classes.9ed76be5.svg",
+    "static/media/landing.svg": "/NLW-02/static/media/landing.c86272eb.svg",
+    "static/media/logo.svg": "/NLW-02/static/media/logo.1f9a96a1.svg",
+    "static/media/purple-heart.svg": "/NLW-02/static/media/purple-heart.e042bb23.svg",
+    "static/media/study.svg": "/NLW-02/static/media/study.3c22fb01.svg",
+    "static/media/warning.svg": "/NLW-02/static/media/warning.744fb7ba.svg",
+    "static/media/whatsapp.svg": "/NLW-02/static/media/whatsapp.c2ffa8a6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7e62821.js",
+    "static/js/2.2a2d43c5.chunk.js",
+    "static/css/main.5f0de1a8.chunk.css",
+    "static/js/main.b175dd43.chunk.js"
+  ]
+}
